@@ -4,5 +4,11 @@
     "key": "Bes1",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Uz",
+    "key": "IR12",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
