@@ -22,5 +22,11 @@
     "key": "besti",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "549f33514dfab7b1",
+    "key": "best",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
