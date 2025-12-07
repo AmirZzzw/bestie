@@ -16,5 +16,11 @@
     "key": "Asdi",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d5ca6b15936d031c",
+    "key": "besti",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
