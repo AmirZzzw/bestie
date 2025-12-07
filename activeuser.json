@@ -28,5 +28,11 @@
     "key": "best",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "865173b846f23258",
+    "key": "12",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
