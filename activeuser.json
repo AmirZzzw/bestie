@@ -16,5 +16,11 @@
     "key": "Bestie",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "865173b846f23258",
+    "key": "Amir",
+    "expirydate": "06-01-2026",
+    "Allowoffline": false
   }
 ]
