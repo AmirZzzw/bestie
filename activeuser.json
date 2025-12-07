@@ -46,5 +46,11 @@
     "key": "Asadi1",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Ami11",
+    "key": "User1",
+    "expirydate": "06-01-2026",
+    "Allowoffline": false
   }
 ]
