@@ -52,5 +52,11 @@
     "key": "tenis",
     "expirydate": "10-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "549f33514dfab7b1",
+    "key": "Ali12",
+    "expirydate": "20-12-2025",
+    "Allowoffline": false
   }
 ]
