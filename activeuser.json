@@ -30,12 +30,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "Ami11",
-    "key": "User1",
-    "expirydate": "06-01-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "865173b846f23258",
     "key": "User",
     "expirydate": "08-12-2025",
