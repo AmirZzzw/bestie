@@ -10,5 +10,11 @@
     "key": "IR12",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "X",
+    "key": "Asdi",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
