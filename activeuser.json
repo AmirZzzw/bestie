@@ -46,5 +46,11 @@
     "key": "User1",
     "expirydate": "20-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d5ca6b15936d031c",
+    "key": "tenis",
+    "expirydate": "10-12-2025",
+    "Allowoffline": false
   }
 ]
