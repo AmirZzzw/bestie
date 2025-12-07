@@ -40,5 +40,11 @@
     "key": "Mykey12",
     "expirydate": "19-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "865173b846f23258",
+    "key": "Asadi1",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
