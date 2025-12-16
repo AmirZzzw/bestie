@@ -106,5 +106,11 @@
     "key": "AMIRRR",
     "expirydate": "07-08-2050",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9ab53b542eb6c0bf",
+    "key": "9ab53b542eb6c0bf",
+    "expirydate": "28-01-2026",
+    "Allowoffline": false
   }
 ]
